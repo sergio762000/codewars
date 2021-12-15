@@ -1,2 +1,2 @@
-# php_codewars
+# codewars
 задачки с codewars.com
